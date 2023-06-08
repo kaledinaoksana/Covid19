@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"notebook.pinnedNotebooks": [
+			{
+				"notebookPath": "/Users/oksana_kaledina/Desktop/Analyst_Project/Covid19-AnalystProject-AzureDataStudio.ipynb",
+				"bookPath": "/Users/oksana_kaledina/Desktop/Analyst_Project",
+				"title": "Covid19-AnalystProject-AzureDataStudio"
+			}
+		]
+	}
+}
